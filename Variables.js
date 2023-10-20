@@ -6,4 +6,4 @@ function tipo (){
     return typeof nombre;
 }
 
-console.log("");
+4 +"7"= "47";
