@@ -1,3 +1,4 @@
+//pruebas de git 
 var nombre = edgar;
 
 var edad = 23;
@@ -16,3 +17,8 @@ function sumar(data){
 }
 
 sumar(data);
+
+
+console.log("hola");
+
+tipo(nombre;)
