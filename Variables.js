@@ -16,3 +16,6 @@ function sumar(data, numero, palabra){
 }
 
 sumar(data);
+
+
+//comentarios para prueba
