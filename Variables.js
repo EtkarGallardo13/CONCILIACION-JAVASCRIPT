@@ -9,7 +9,7 @@ function tipo (){
 4 +"7"= "47";
 
 
-function sumar(data){
+function sumar(data, numero, palabra){
       let numero = 4;
       let   palabra = "types";
       data = numero + palabra;
