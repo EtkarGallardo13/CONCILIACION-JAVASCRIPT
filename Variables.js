@@ -2,7 +2,10 @@
 var nombre = edgar;
 
 var edad = 23;
-
+function sumar(a,b){
+    let resultado = a+b;
+    console.log(resultado);
+}
 function tipo (){
     return typeof nombre;
 }
@@ -22,3 +25,4 @@ sumar(data);
 console.log("hola");
 
 tipo(nombre;)
+sumar(3,4);
