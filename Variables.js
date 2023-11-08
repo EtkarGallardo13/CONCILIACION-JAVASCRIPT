@@ -26,3 +26,5 @@ console.log("hola");
 
 tipo(nombre;)
 sumar(3,4);
+
+//cierre de programa
