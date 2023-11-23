@@ -28,3 +28,5 @@ tipo(nombre;)
 sumar(3,4);
 
 //cierre de programa
+
+//flag prueba nueva
