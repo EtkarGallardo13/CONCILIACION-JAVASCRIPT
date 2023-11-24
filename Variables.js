@@ -10,7 +10,7 @@ function tipo (){
     return typeof nombre;
 }
 
-4 +"7"= "47";
+4 +"7";
 
 
 function sumar(data){
@@ -24,7 +24,7 @@ sumar(data);
 
 console.log("hola");
 
-tipo(nombre;)
+tipo(nombre)
 sumar(3,4);
 
 //cierre de programa
